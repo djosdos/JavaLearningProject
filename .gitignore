@@ -36,3 +36,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+git config --global user.email "doinadjos@gmail.com" git config --global user.name "Doina Djos"
